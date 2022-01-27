@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\OpenNexusExt\\Oxide.OpenNexus.csproj": {}
+  },
+  "projects": {
+    "E:\\OpenNexusExt\\Oxide.OpenNexus.csproj": {
+      "version": "0.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\OpenNexusExt\\Oxide.OpenNexus.csproj",
+        "projectName": "Oxide.Ext.OpenNexus",
+        "projectPath": "E:\\OpenNexusExt\\Oxide.OpenNexus.csproj",
+        "packagesPath": "C:\\Users\\bmg\\.nuget\\packages\\",
+        "outputPath": "E:\\OpenNexusExt\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "E:\\OpenNexusExt\\NuGet.Config",
+          "C:\\Users\\bmg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/f/oxide/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "Oxide.Core": {
+              "target": "Package",
+              "version": "[2.0.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

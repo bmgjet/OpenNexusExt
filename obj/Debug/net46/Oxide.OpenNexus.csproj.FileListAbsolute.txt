@@ -1,0 +1,16 @@
+E:\OpenNexusExt\obj\Debug\net46\Oxide.OpenNexus.csprojAssemblyReference.cache
+E:\OpenNexusExt\obj\Debug\net46\Oxide.OpenNexus.AssemblyInfoInputs.cache
+E:\OpenNexusExt\obj\Debug\net46\Oxide.OpenNexus.AssemblyInfo.cs
+E:\OpenNexusExt\obj\Debug\net46\Oxide.OpenNexus.csproj.CoreCompileInputs.cache
+E:\OpenNexusExt\bin\Debug\net46\Oxide.Ext.OpenNexus.dll
+E:\OpenNexusExt\bin\Debug\net46\Oxide.Ext.OpenNexus.pdb
+E:\OpenNexusExt\bin\Debug\net46\Mono.Cecil.Mdb.dll
+E:\OpenNexusExt\bin\Debug\net46\Mono.Cecil.Pdb.dll
+E:\OpenNexusExt\bin\Debug\net46\Mono.Cecil.Rocks.dll
+E:\OpenNexusExt\bin\Debug\net46\Mono.Cecil.dll
+E:\OpenNexusExt\bin\Debug\net46\Oxide.Core.dll
+E:\OpenNexusExt\bin\Debug\net46\Oxide.References.dll
+E:\OpenNexusExt\bin\Debug\net46\websocket-sharp.dll
+E:\OpenNexusExt\obj\Debug\net46\Oxide.OpenNexus.csproj.CopyComplete
+E:\OpenNexusExt\obj\Debug\net46\Oxide.Ext.OpenNexus.dll
+E:\OpenNexusExt\obj\Debug\net46\Oxide.Ext.OpenNexus.pdb

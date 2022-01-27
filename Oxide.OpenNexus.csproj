@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+  <Import Project="netfx.props" />
+  <PropertyGroup>
+    <Version>0.0.0</Version>
+    <AssemblyName>Oxide.Ext.OpenNexus</AssemblyName>
+    <Authors>bmgjet</Authors>
+    <Copyright>(c) 2013-$([System.DateTime]::Now.Year) $(Authors)</Copyright>
+    <Description>Open transfere system for moving players/entitys between servers</Description>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageIconUrl>icon.png</PackageIconUrl>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageProjectUrl></PackageProjectUrl>
+    <TargetFrameworks>net46</TargetFrameworks>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <NoWarn>NU1701</NoWarn>
+    <RootNamespace>Oxide.Ext.OpenNexus</RootNamespace>
+    <Company>bmgjet</Company>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Oxide.Core" Version="2.0.*" />
+  </ItemGroup>
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+  <Target Name="ChangeAliasesOfStrongNameAssemblies" BeforeTargets="FindReferenceAssembliesForReferences;ResolveReferences">
+    <ItemGroup>
+      <ReferencePath Condition="'%(FileName)' == 'Oxide.References'">
+        <Aliases>References</Aliases>
+      </ReferencePath>
+    </ItemGroup>
+  </Target>
+</Project>

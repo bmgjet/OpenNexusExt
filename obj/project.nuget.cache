@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIIXIxuN+308geMA5wbeAE1Mrjv9w+/QUNcSxOVVHSxfiHovyhxJMPx2NBqCD+bbTLHTuQ/JR5stTLzDwHGiCQ==",
+  "success": true,
+  "projectFilePath": "E:\\OpenNexusExt\\Oxide.OpenNexus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmg\\.nuget\\packages\\ilrepack\\2.0.18\\ilrepack.2.0.18.nupkg.sha512",
+    "C:\\Users\\bmg\\.nuget\\packages\\mono.cecil\\0.9.6.4\\mono.cecil.0.9.6.4.nupkg.sha512",
+    "C:\\Users\\bmg\\.nuget\\packages\\oxide.core\\2.0.4002\\oxide.core.2.0.4002.nupkg.sha512",
+    "C:\\Users\\bmg\\.nuget\\packages\\oxide.references\\2.0.3779\\oxide.references.2.0.3779.nupkg.sha512",
+    "C:\\Users\\bmg\\.nuget\\packages\\websocketsharpfork\\1.0.4\\websocketsharpfork.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
